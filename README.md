@@ -11,7 +11,7 @@ Hello! I am an aspiring Data Analyst with skills in:
 
 I enjoy solving business problems using data and creating interactive dashboards.
 
-
+# Projects:
 
 # Contact: 6009549712
 
