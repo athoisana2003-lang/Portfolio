@@ -20,6 +20,7 @@ Machine learning project that predicts Bitcoin price trends and generates Buy/Se
 
 ### Locking System With Double Authentication
 A Raspberry Pi-based door locking system that uses face recognition and fingerprint authentication for enhanced security.
+
 🔗 Project: https://github.com/athoisana2003-lang/Locking-system-with-dual-authentication
 
 ## Contact: 6009549712
