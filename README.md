@@ -23,6 +23,11 @@ A Raspberry Pi-based door locking system that uses face recognition and fingerpr
 
 🔗 Project: https://github.com/athoisana2003-lang/Locking-system-with-dual-authentication
 
+### HR-Attrition-Analytics-Dashboard
+End-to-end HR Analytics project using Python, SQL, Excel, and Power BI to analyze employee attrition, identify workforce trends, and build an interactive business intelligence dashboard.
+
+🔗 Project: https://github.com/athoisana2003-lang/HR-Attrition-Analytics-Dashboard
+
 ## Contact: 6009549712
 
 ## LinkedIn: www.linkedin.com/in/athoisana-kangabam-19231426b
